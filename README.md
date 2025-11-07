@@ -69,7 +69,7 @@
 
 ---
 
-## ⚙️ Bug Hunting Tools (List & Short Description)
+## ⚙️ Bug Hunting Tools 
 
 - **Burp Suite (Pro/Community)** — intercept, repeater, intruder, extensions for automation.  
 - **OWASP ZAP** — free alternative for automated scans and spiders.  
@@ -128,23 +128,3 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Old-hacker01&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Old-hacker01&layout=compact&theme=radical" alt="Top Languages"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Old-hacker01&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-🚀 Coming soon: In-depth bug bounty writeups & CTF walkthroughs!  
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## ⚡ Fun Fact
-I once solved a **CTF challenge in my dream** — and it actually worked when I tried it in real life! 😆
-
----
