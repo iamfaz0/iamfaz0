@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Fazo  
-### Ethical Hacker | Bug Bounty Hunter | CTF Player | security Tester
+### Ethical Hacker | security Researcher
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Bug+Bounty+Hunter;CTF+Player;Web+App+%7C+Mobile+%7C+API+Security)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Bug+Hunter;)](https://git.io/typing-svg)
 
 ---
 <div align="center">
