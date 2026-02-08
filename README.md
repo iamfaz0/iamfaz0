@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fazo  
+# 👋 iamfaz0  
 ### security Researcher
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Ethical+Hacker;Bug+Hunter;)](https://git.io/typing-svg)
