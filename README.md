@@ -1,52 +1,53 @@
-# 👋 iamfaz0  
-### Security Researcher
+# Hi, I'm Fazo 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1AF72E&center=true&vCenter=true&width=700&lines=Security+Researcher;Bug+Hunter;Web+App+Security+Expert;Breaking+%26+Securing+Systems)](https://git.io/typing-svg)
+**Security Researcher | Bug Hunter | Web Application Security**
 
----
-
-<div align="center">
-    <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="150" alt="Cybersecurity Animation">
-</div>
+I specialize in identifying and reporting security vulnerabilities across web applications, APIs, and mobile platforms. My focus is on helping organizations strengthen their security posture through responsible disclosure and thorough testing.
 
 ---
 
-## 🛠️ What I Hunt
-<p align="center">
-  <code>🔍 Web Apps</code> • 
-  <code>🔌 APIs</code> • 
-  <code>📱 Mobile Apps</code> • 
-  <code>🌐 SSRF</code> • 
-  <code>🔐 Authentication Flaws</code> • 
-  <code>🚪 Access Control</code>
+## Areas of Focus
+
+- Web Application Security
+- API Security Testing
+- Mobile Application Security
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:fazodark@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="40" height="40" alt="Email" title="Email">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/iamfaz0">
+    <img src="https://img.icons8.com/color/48/telegram-app.png" width="40" height="40" alt="Telegram" title="Telegram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/+255622048500">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="40" height="40" alt="WhatsApp" title="WhatsApp">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/_iamfazo">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" width="40" height="40" alt="Instagram" title="Instagram">
+  </a>
 </p>
 
 ---
 
-##  Contact Me
-<div align="center">
-  <a href="https://t.me/iamfaz0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://wa.me/+255622048500" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-</div>
+## Support
 
----
-
-##  Support My Work
-
-<div align="center">
-  <p><i>If you find my research useful, consider buying me a coffee ❤️</i></p>
-  
-  <a href="https://streamlabs.com/iamfazopubgm/tip" target="_blank">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+<p align="left">
+  <a href="https://streamlabs.com/iamfazopubgm/tip">
+    <img src="https://img.icons8.com/color/48/paypal.png" width="40" height="40" alt="PayPal" title="PayPal">
   </a>
   &nbsp;&nbsp;
-  <a href="https://buymeacoffee.com/fadhilimbah" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  <a href="https://buymeacoffee.com/fadhilimbah">
+    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" width="40" height="40" alt="Buy Me A Coffee" title="Buy Me A Coffee">
   </a>
-</div>
+</p>
 
 ---
+
+*Committed to responsible disclosure and advancing security research.*
