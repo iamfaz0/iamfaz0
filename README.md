@@ -1,5 +1,9 @@
 # Hi, I'm Fazo 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=iamfaz0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
 **Security Researcher | Bug Hunter | Web Application Security**
 
 I specialize in identifying and reporting security vulnerabilities across web applications, APIs, and mobile platforms. My focus is on helping organizations strengthen their security posture through responsible disclosure and thorough testing.
